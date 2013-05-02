@@ -1,5 +1,5 @@
-var MyCart = MyCart || {}
+var Novanet = Novanet || {}
 
-MyCart.Cart = function(){
+Novanet.ShoppingCart = function(){
 	var self = this;
 }
